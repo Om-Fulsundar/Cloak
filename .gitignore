@@ -1,0 +1,21 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Results and temp outputs
+results/*
+!results/.gitkeep   # keep the folder tracked but empty
+
+# Virtual environments
+venv/
+.env/
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+*.swp
+
+# Logs
+*.log
