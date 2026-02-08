@@ -1,0 +1,11 @@
+=== Cloak Report ===
+Timestamp: 2026-02-04T14:37:30.897567
+
+Original Payload: hello
+Original SHA256: 2cf24dba5fb0a30e26e83b2ac5b9e29e1b161e5c1fa7425e73043362938b9824
+Transformed Payload Preview: =8GbsVGa
+Transformed SHA256: 7556238874caf9f12dfa37060112a7684ddd59cb9d5d07fc05ad11f063d193f4
+
+Original Detection: BYPASSED
+Transformed Detection: BYPASSED
+Effectiveness: NEUTRAL — Both original and transformed bypassed.

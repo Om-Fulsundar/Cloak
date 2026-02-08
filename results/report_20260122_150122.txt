@@ -1,0 +1,11 @@
+=== Cloak Report ===
+Timestamp: 2026-01-22T15:01:22.220269
+
+Original Payload: powershell
+Original SHA256: 86f51b17077aee2d7885528286a00aa632489cfee188cc99fbec881feb06dca7
+Transformed Payload Preview: yyruferjbc
+Transformed SHA256: 32b1b653f292cef38db3db1751f7a62e7bd88b39f9febed0e93f702994ed05cc
+
+Original Detection: DETECTED
+Transformed Detection: BYPASSED
+Effectiveness: SUCCESS — Transformation bypassed detection.
